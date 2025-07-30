@@ -1,0 +1,11 @@
+streamlit
+fastmcp
+ollama
+sentence-transformers
+chromadb
+pypdf2
+python-docx==0.8.11
+docx
+numpy
+pandas
+faiss-cpu
